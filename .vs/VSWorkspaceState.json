@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CleanArchicture.Application",
+    "\\CleanArchicture.Test",
+    "\\CleanArchicture.WebAPI",
+    "\\Persistence\\Context"
+  ],
+  "SelectedNode": "\\CleanArchicture.WebAPI\\appsettings.json",
+  "PreviewInSolutionExplorer": false
+}

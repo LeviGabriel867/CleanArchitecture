@@ -1,0 +1,11 @@
+C:\CleanArchicture\CleanArchicture\Domain\bin\Debug\net6.0\CleanArchicture.Domain.deps.json
+C:\CleanArchicture\CleanArchicture\Domain\bin\Debug\net6.0\CleanArchicture.Domain.dll
+C:\CleanArchicture\CleanArchicture\Domain\bin\Debug\net6.0\CleanArchicture.Domain.pdb
+C:\CleanArchicture\CleanArchicture\Domain\obj\Debug\net6.0\CleanArchicture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\CleanArchicture\CleanArchicture\Domain\obj\Debug\net6.0\CleanArchicture.Domain.AssemblyInfoInputs.cache
+C:\CleanArchicture\CleanArchicture\Domain\obj\Debug\net6.0\CleanArchicture.Domain.AssemblyInfo.cs
+C:\CleanArchicture\CleanArchicture\Domain\obj\Debug\net6.0\CleanArchicture.Domain.csproj.CoreCompileInputs.cache
+C:\CleanArchicture\CleanArchicture\Domain\obj\Debug\net6.0\CleanArchicture.Domain.dll
+C:\CleanArchicture\CleanArchicture\Domain\obj\Debug\net6.0\refint\CleanArchicture.Domain.dll
+C:\CleanArchicture\CleanArchicture\Domain\obj\Debug\net6.0\CleanArchicture.Domain.pdb
+C:\CleanArchicture\CleanArchicture\Domain\obj\Debug\net6.0\ref\CleanArchicture.Domain.dll
