@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CleanArchicture.Application")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("CleanArchicture.WebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d584867d887a1eff82977b0bf08439bc02e51b5b")]
-[assembly: System.Reflection.AssemblyProductAttribute("CleanArchicture.Application")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CleanArchicture.Application")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ac449b39fddc14eeae0b3f024214688e1fd2b7b")]
+[assembly: System.Reflection.AssemblyProductAttribute("CleanArchicture.WebAPI")]
+[assembly: System.Reflection.AssemblyTitleAttribute("CleanArchicture.WebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

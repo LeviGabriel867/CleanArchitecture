@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "/lIZBIRBLwh29seoTeAqGgE66W+hWXENF3YBDcOg33TvhoaPuywXZib4NiQ7t5wPwlMPlj3wF7Hx0WeUArgnWA==",
-  "success": true,
+  "dgSpecHash": "/9sjhMaHouriUpHQDqNRCFNVSLsUm4X0fexN4cWty5WdINRZmKub4/OGckwj1165NjEJBpW2ugNksqEIO7FLZw==",
+  "success": false,
   "projectFilePath": "C:\\CleanArchicture\\CleanArchicture\\CleanArchicture.Application\\CleanArchicture.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\55889\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
@@ -14,5 +14,24 @@
     "C:\\Users\\55889\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\55889\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Não é possível encontrar o projeto 'C:\\CleanArchicture\\CleanArchicture\\Persistence\\CleanArchitecture.Persistence.csproj'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
+      "libraryId": "C:\\CleanArchicture\\CleanArchicture\\Persistence\\CleanArchitecture.Persistence.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Não é possível encontrar o projeto 'C:\\CleanArchicture\\CleanArchicture\\Domain\\CleanArchitecture.Domain.csproj'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
+      "libraryId": "C:\\CleanArchicture\\CleanArchicture\\Domain\\CleanArchitecture.Domain.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

@@ -35,6 +35,12 @@
             "projectReferences": {
               "C:\\CleanArchicture\\CleanArchicture\\Domain\\CleanArchicture.Domain.csproj": {
                 "projectPath": "C:\\CleanArchicture\\CleanArchicture\\Domain\\CleanArchicture.Domain.csproj"
+              },
+              "C:\\CleanArchicture\\CleanArchicture\\Domain\\CleanArchitecture.Domain.csproj": {
+                "projectPath": "C:\\CleanArchicture\\CleanArchicture\\Domain\\CleanArchitecture.Domain.csproj"
+              },
+              "C:\\CleanArchicture\\CleanArchicture\\Persistence\\CleanArchitecture.Persistence.csproj": {
+                "projectPath": "C:\\CleanArchicture\\CleanArchicture\\Persistence\\CleanArchitecture.Persistence.csproj"
               }
             }
           }
