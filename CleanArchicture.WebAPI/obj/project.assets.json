@@ -1193,9 +1193,8 @@
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "AutoMapper": "13.0.1",
-          "C:\\CleanArchicture\\CleanArchicture\\Domain\\CleanArchitecture.Domain.csproj": "1.0.0",
-          "C:\\CleanArchicture\\CleanArchicture\\Persistence\\CleanArchitecture.Persistence.csproj": "1.0.0",
           "CleanArchicture.Domain": "1.0.0",
+          "CleanArchicture.Persistence": "1.0.0",
           "FluentValidation": "11.9.0",
           "FluentValidation.DependencyInjectionExtensions": "11.9.0",
           "MediatR": "12.2.0"
@@ -1221,7 +1220,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "CleanArchicture.Application": "1.0.0",
+          "CleanArchicture.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.18",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "7.0.11"
         },
@@ -3214,8 +3213,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "C:\\CleanArchicture\\CleanArchicture\\Application\\CleanArchitecture.Application.csproj",
-      "C:\\CleanArchicture\\CleanArchicture\\Persistence\\CleanArchitecture.Persistence.csproj",
+      "CleanArchicture.Application >= 1.0.0",
       "CleanArchicture.Persistence >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
@@ -3253,14 +3251,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\CleanArchicture\\CleanArchicture\\Application\\CleanArchitecture.Application.csproj": {
-              "projectPath": "C:\\CleanArchicture\\CleanArchicture\\Application\\CleanArchitecture.Application.csproj"
+            "C:\\CleanArchicture\\CleanArchicture\\CleanArchicture.Application\\CleanArchicture.Application.csproj": {
+              "projectPath": "C:\\CleanArchicture\\CleanArchicture\\CleanArchicture.Application\\CleanArchicture.Application.csproj"
             },
             "C:\\CleanArchicture\\CleanArchicture\\Persistence\\CleanArchicture.Persistence.csproj": {
               "projectPath": "C:\\CleanArchicture\\CleanArchicture\\Persistence\\CleanArchicture.Persistence.csproj"
-            },
-            "C:\\CleanArchicture\\CleanArchicture\\Persistence\\CleanArchitecture.Persistence.csproj": {
-              "projectPath": "C:\\CleanArchicture\\CleanArchicture\\Persistence\\CleanArchitecture.Persistence.csproj"
             }
           }
         }
@@ -3302,34 +3297,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Não é possível encontrar o projeto 'C:\\CleanArchicture\\CleanArchicture\\Application\\CleanArchitecture.Application.csproj'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
-      "libraryId": "C:\\CleanArchicture\\CleanArchicture\\Application\\CleanArchitecture.Application.csproj",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Não é possível encontrar o projeto 'C:\\CleanArchicture\\CleanArchicture\\Persistence\\CleanArchitecture.Persistence.csproj'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
-      "libraryId": "C:\\CleanArchicture\\CleanArchicture\\Persistence\\CleanArchitecture.Persistence.csproj",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Não é possível encontrar o projeto 'C:\\CleanArchicture\\CleanArchicture\\Domain\\CleanArchitecture.Domain.csproj'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
-      "libraryId": "C:\\CleanArchicture\\CleanArchicture\\Domain\\CleanArchitecture.Domain.csproj",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  }
 }

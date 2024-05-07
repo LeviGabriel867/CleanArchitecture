@@ -3,23 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{FC67829A-59E4-4BBD-8859-D5853B72F55E}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CleanArch-master", "CleanArch-master", "{FC67829A-59E4-4BBD-8859-D5853B72F55E}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{50AEFE85-9B97-4319-80DA-B202DAD69BB6}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Persistence", "Persistence", "{50AEFE85-9B97-4319-80DA-B202DAD69BB6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{A9F731EC-9CDD-4C70-A2F3-E5EED81040FE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{BCA32042-3BED-4869-A3E3-678789765BC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchicture.Domain", "Domain\CleanArchicture.Domain.csproj", "{C680F3B5-C9D9-49CD-AD78-EAF074877B34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchicture.Domain", "Domain\CleanArchicture.Domain.csproj", "{C680F3B5-C9D9-49CD-AD78-EAF074877B34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchicture.Application", "CleanArchicture.Application\CleanArchicture.Application.csproj", "{14423BBA-3E03-4D9D-9562-381E0E917089}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchicture.Application", "CleanArchicture.Application\CleanArchicture.Application.csproj", "{14423BBA-3E03-4D9D-9562-381E0E917089}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchicture.Persistence", "Persistence\CleanArchicture.Persistence.csproj", "{9255516E-D2B0-4AE4-9ED9-6BC7A57F70FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchicture.Persistence", "Persistence\CleanArchicture.Persistence.csproj", "{9255516E-D2B0-4AE4-9ED9-6BC7A57F70FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchicture.WebAPI", "CleanArchicture.WebAPI\CleanArchicture.WebAPI.csproj", "{42D90405-7A35-48CB-BE5E-2B09434DBDF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchicture.WebAPI", "CleanArchicture.WebAPI\CleanArchicture.WebAPI.csproj", "{42D90405-7A35-48CB-BE5E-2B09434DBDF2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchicture.Test", "CleanArchicture.Test\CleanArchicture.Test.csproj", "{942D82F8-2DE8-4C16-B3E9-3F418100AA8D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchicture.Test", "CleanArchicture.Test\CleanArchicture.Test.csproj", "{942D82F8-2DE8-4C16-B3E9-3F418100AA8D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

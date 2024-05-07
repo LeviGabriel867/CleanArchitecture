@@ -36,11 +36,8 @@
               "C:\\CleanArchicture\\CleanArchicture\\Domain\\CleanArchicture.Domain.csproj": {
                 "projectPath": "C:\\CleanArchicture\\CleanArchicture\\Domain\\CleanArchicture.Domain.csproj"
               },
-              "C:\\CleanArchicture\\CleanArchicture\\Domain\\CleanArchitecture.Domain.csproj": {
-                "projectPath": "C:\\CleanArchicture\\CleanArchicture\\Domain\\CleanArchitecture.Domain.csproj"
-              },
-              "C:\\CleanArchicture\\CleanArchicture\\Persistence\\CleanArchitecture.Persistence.csproj": {
-                "projectPath": "C:\\CleanArchicture\\CleanArchicture\\Persistence\\CleanArchitecture.Persistence.csproj"
+              "C:\\CleanArchicture\\CleanArchicture\\Persistence\\CleanArchicture.Persistence.csproj": {
+                "projectPath": "C:\\CleanArchicture\\CleanArchicture\\Persistence\\CleanArchicture.Persistence.csproj"
               }
             }
           }
@@ -121,14 +118,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\CleanArchicture\\CleanArchicture\\Application\\CleanArchitecture.Application.csproj": {
-                "projectPath": "C:\\CleanArchicture\\CleanArchicture\\Application\\CleanArchitecture.Application.csproj"
+              "C:\\CleanArchicture\\CleanArchicture\\CleanArchicture.Application\\CleanArchicture.Application.csproj": {
+                "projectPath": "C:\\CleanArchicture\\CleanArchicture\\CleanArchicture.Application\\CleanArchicture.Application.csproj"
               },
               "C:\\CleanArchicture\\CleanArchicture\\Persistence\\CleanArchicture.Persistence.csproj": {
                 "projectPath": "C:\\CleanArchicture\\CleanArchicture\\Persistence\\CleanArchicture.Persistence.csproj"
-              },
-              "C:\\CleanArchicture\\CleanArchicture\\Persistence\\CleanArchitecture.Persistence.csproj": {
-                "projectPath": "C:\\CleanArchicture\\CleanArchicture\\Persistence\\CleanArchitecture.Persistence.csproj"
               }
             }
           }
@@ -260,8 +254,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\CleanArchicture\\CleanArchicture\\CleanArchicture.Application\\CleanArchicture.Application.csproj": {
-                "projectPath": "C:\\CleanArchicture\\CleanArchicture\\CleanArchicture.Application\\CleanArchicture.Application.csproj"
+              "C:\\CleanArchicture\\CleanArchicture\\Domain\\CleanArchicture.Domain.csproj": {
+                "projectPath": "C:\\CleanArchicture\\CleanArchicture\\Domain\\CleanArchicture.Domain.csproj"
               }
             }
           }

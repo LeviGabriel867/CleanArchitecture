@@ -8,8 +8,7 @@
 
 	<ItemGroup>
 		<ProjectReference Include="..\Domain\CleanArchicture.Domain.csproj" />
-		<ProjectReference Include="..\Domain\CleanArchitecture.Domain.csproj" />
-		<ProjectReference Include="..\Persistence\CleanArchitecture.Persistence.csproj" />
+		<ProjectReference Include="..\Persistence\CleanArchicture.Persistence.csproj" />
 	</ItemGroup>
 
 	<ItemGroup>

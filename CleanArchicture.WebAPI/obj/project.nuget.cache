@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "TKi9JS9w603kLY31zphB9vqHSGHtd81xTaUpUPei2IA90i14uWCzJ1p2ODFEbhUDWqnfdQZnHLsgnO49JKJPZg==",
-  "success": false,
+  "dgSpecHash": "c5EpoKRK7ICvuzYSZXVbr6GxoXPtaec2seLC8FkwBc3bUZ8wpN2wdF5M44YXjcsF51oW77TOntw3LHRI1x8D7Q==",
+  "success": true,
   "projectFilePath": "C:\\CleanArchicture\\CleanArchicture\\CleanArchicture.WebAPI\\CleanArchicture.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\55889\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
@@ -73,33 +73,5 @@
     "C:\\Users\\55889\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\55889\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Não é possível encontrar o projeto 'C:\\CleanArchicture\\CleanArchicture\\Application\\CleanArchitecture.Application.csproj'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
-      "libraryId": "C:\\CleanArchicture\\CleanArchicture\\Application\\CleanArchitecture.Application.csproj",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Não é possível encontrar o projeto 'C:\\CleanArchicture\\CleanArchicture\\Persistence\\CleanArchitecture.Persistence.csproj'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
-      "libraryId": "C:\\CleanArchicture\\CleanArchicture\\Persistence\\CleanArchitecture.Persistence.csproj",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Não é possível encontrar o projeto 'C:\\CleanArchicture\\CleanArchicture\\Domain\\CleanArchitecture.Domain.csproj'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
-      "libraryId": "C:\\CleanArchicture\\CleanArchicture\\Domain\\CleanArchitecture.Domain.csproj",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  "logs": []
 }

@@ -1,0 +1,16 @@
+C:\CleanArchicture\CleanArchicture\Persistence\obj\Debug\net6.0\CleanArchicture.Persistence.csproj.AssemblyReference.cache
+C:\CleanArchicture\CleanArchicture\Persistence\obj\Debug\net6.0\CleanArchicture.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\CleanArchicture\CleanArchicture\Persistence\obj\Debug\net6.0\CleanArchicture.Persistence.AssemblyInfoInputs.cache
+C:\CleanArchicture\CleanArchicture\Persistence\obj\Debug\net6.0\CleanArchicture.Persistence.AssemblyInfo.cs
+C:\CleanArchicture\CleanArchicture\Persistence\obj\Debug\net6.0\CleanArchicture.Persistence.csproj.CoreCompileInputs.cache
+C:\CleanArchicture\CleanArchicture\Persistence\obj\Debug\net6.0\CleanArchicture.Persistence.sourcelink.json
+C:\CleanArchicture\CleanArchicture\Persistence\bin\Debug\net6.0\CleanArchicture.Persistence.deps.json
+C:\CleanArchicture\CleanArchicture\Persistence\bin\Debug\net6.0\CleanArchicture.Persistence.dll
+C:\CleanArchicture\CleanArchicture\Persistence\bin\Debug\net6.0\CleanArchicture.Persistence.pdb
+C:\CleanArchicture\CleanArchicture\Persistence\bin\Debug\net6.0\CleanArchicture.Domain.dll
+C:\CleanArchicture\CleanArchicture\Persistence\bin\Debug\net6.0\CleanArchicture.Domain.pdb
+C:\CleanArchicture\CleanArchicture\Persistence\obj\Debug\net6.0\CleanArchicture.Persistence.csproj.CopyComplete
+C:\CleanArchicture\CleanArchicture\Persistence\obj\Debug\net6.0\CleanArchicture.Persistence.dll
+C:\CleanArchicture\CleanArchicture\Persistence\obj\Debug\net6.0\refint\CleanArchicture.Persistence.dll
+C:\CleanArchicture\CleanArchicture\Persistence\obj\Debug\net6.0\CleanArchicture.Persistence.pdb
+C:\CleanArchicture\CleanArchicture\Persistence\obj\Debug\net6.0\ref\CleanArchicture.Persistence.dll

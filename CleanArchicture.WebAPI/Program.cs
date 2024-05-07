@@ -2,6 +2,7 @@ using CleanArchitecture.API.Extensions;
 using CleanArchitecture.Application.Services;
 using CleanArchitecture.Persistence;
 
+
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.ConfigurePersistenceApp(builder.Configuration);
