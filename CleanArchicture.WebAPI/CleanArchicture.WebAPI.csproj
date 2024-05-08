@@ -7,6 +7,11 @@
 	</PropertyGroup>
 
 	<ItemGroup>
+	  <Content Remove="appsettings - Cópia.Development.json" />
+	  <Content Remove="json.json" />
+	</ItemGroup>
+
+	<ItemGroup>
 		<PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
 	</ItemGroup>
 

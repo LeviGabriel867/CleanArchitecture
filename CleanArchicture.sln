@@ -6,6 +6,9 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CleanArch-master", "CleanArch-master", "{FC67829A-59E4-4BBD-8859-D5853B72F55E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Persistence", "Persistence", "{50AEFE85-9B97-4319-80DA-B202DAD69BB6}"
+	ProjectSection(SolutionItems) = preProject
+		ServiceExtensions.cs = ServiceExtensions.cs
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{A9F731EC-9CDD-4C70-A2F3-E5EED81040FE}"
 EndProject
